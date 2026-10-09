@@ -1,6 +1,6 @@
 import "./style.css";
 
-const WA = "966500608088";
+const WA = "966596088555";
 const wa = (text) => `https://wa.me/${WA}?text=${encodeURIComponent(text)}`;
 
 // mobile nav toggle
